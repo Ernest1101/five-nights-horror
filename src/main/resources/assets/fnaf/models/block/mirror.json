@@ -1,0 +1,77 @@
+{
+ "parent": "minecraft:block/block",
+ "textures": {
+  "t": "fnaf:block/mirror",
+  "particle": "fnaf:block/mirror"
+ },
+ "elements": [
+  {
+   "from": [
+    1,
+    1,
+    0
+   ],
+   "to": [
+    15,
+    15,
+    0.5
+   ],
+   "faces": {
+    "north": {
+     "texture": "#t",
+     "uv": [
+      1,
+      1,
+      15,
+      15
+     ]
+    },
+    "south": {
+     "texture": "#t",
+     "uv": [
+      1,
+      1,
+      15,
+      15
+     ]
+    },
+    "east": {
+     "texture": "#t",
+     "uv": [
+      15.5,
+      1,
+      16,
+      15
+     ]
+    },
+    "west": {
+     "texture": "#t",
+     "uv": [
+      0,
+      1,
+      0.5,
+      15
+     ]
+    },
+    "up": {
+     "texture": "#t",
+     "uv": [
+      1,
+      0,
+      15,
+      0.5
+     ]
+    },
+    "down": {
+     "texture": "#t",
+     "uv": [
+      1,
+      15.5,
+      15,
+      16
+     ]
+    }
+   }
+  }
+ ]
+}

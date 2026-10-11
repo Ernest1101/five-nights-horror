@@ -1,0 +1,15 @@
+{
+ "variants": {
+  "": [
+   {
+    "model": "fnaf:block/plate_0"
+   },
+   {
+    "model": "fnaf:block/plate_1"
+   },
+   {
+    "model": "fnaf:block/plate_2"
+   }
+  ]
+ }
+}

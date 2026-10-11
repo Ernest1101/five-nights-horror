@@ -1,0 +1,12 @@
+{
+ "variants": {
+  "": [
+   {
+    "model": "fnaf:block/stage_planks_0"
+   },
+   {
+    "model": "fnaf:block/stage_planks_1"
+   }
+  ]
+ }
+}

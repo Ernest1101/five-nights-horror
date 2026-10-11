@@ -1,0 +1,77 @@
+{
+ "parent": "minecraft:block/block",
+ "textures": {
+  "t": "fnaf:block/sign_out_of_order",
+  "particle": "fnaf:block/sign_out_of_order"
+ },
+ "elements": [
+  {
+   "from": [
+    2,
+    3,
+    0
+   ],
+   "to": [
+    14,
+    13,
+    0.5
+   ],
+   "faces": {
+    "north": {
+     "texture": "#t",
+     "uv": [
+      2,
+      3,
+      14,
+      13
+     ]
+    },
+    "south": {
+     "texture": "#t",
+     "uv": [
+      2,
+      3,
+      14,
+      13
+     ]
+    },
+    "east": {
+     "texture": "#t",
+     "uv": [
+      15.5,
+      3,
+      16,
+      13
+     ]
+    },
+    "west": {
+     "texture": "#t",
+     "uv": [
+      0,
+      3,
+      0.5,
+      13
+     ]
+    },
+    "up": {
+     "texture": "#t",
+     "uv": [
+      2,
+      0,
+      14,
+      0.5
+     ]
+    },
+    "down": {
+     "texture": "#t",
+     "uv": [
+      2,
+      15.5,
+      14,
+      16
+     ]
+    }
+   }
+  }
+ ]
+}

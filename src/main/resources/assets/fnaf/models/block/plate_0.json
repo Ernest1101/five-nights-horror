@@ -1,0 +1,33 @@
+{
+ "parent": "minecraft:block/block",
+ "textures": {
+  "p": "fnaf:block/plate_0",
+  "particle": "fnaf:block/plate_0"
+ },
+ "elements": [
+  {
+   "from": [
+    2,
+    0,
+    2
+   ],
+   "to": [
+    14,
+    0.6,
+    14
+   ],
+   "faces": {
+    "up": {
+     "texture": "#p",
+     "uv": [
+      2,
+      2,
+      14,
+      14
+     ]
+    }
+   }
+  }
+ ],
+ "ambientocclusion": false
+}

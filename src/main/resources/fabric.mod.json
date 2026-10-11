@@ -1,0 +1,38 @@
+{
+	"schemaVersion": 1,
+	"id": "fnaf",
+	"version": "${version}",
+	"name": "Five Nights at Freddy's: Horror",
+	"description": "FNAF 1 horror in Minecraft: survive five nights in Freddy Fazbear's Pizza - cameras, doors, power, animatronics that hunt you, and a generator to refuel when the power runs out. Fan-made by Dead Signal Studio. FNAF 1 models by 999angry and map by skylajade69 (Sketchfab, CC BY 4.0) - see assets/fnaf/CREDITS.txt.",
+	"authors": [
+		"ernestnasybullin220"
+	],
+	"license": "MIT",
+	"icon": "assets/fnaf/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.fnaf.horror.FnafHorror"
+		],
+		"client": [
+			"com.fnaf.horror.client.FnafHorrorClient"
+		]
+	},
+	"mixins": [
+		{
+			"config": "fnaf.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.15.0",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*",
+		"geckolib": ">=4.4"
+	},
+	"contributors": [
+		"999angry (FNAF 1 models, CC BY 4.0)",
+		"skylajade69 (FNAF 1 map, CC BY 4.0)"
+	]
+}

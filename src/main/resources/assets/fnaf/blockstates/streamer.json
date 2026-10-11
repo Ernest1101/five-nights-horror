@@ -1,0 +1,15 @@
+{
+ "variants": {
+  "": [
+   {
+    "model": "fnaf:block/streamer_0"
+   },
+   {
+    "model": "fnaf:block/streamer_1"
+   },
+   {
+    "model": "fnaf:block/streamer_2"
+   }
+  ]
+ }
+}

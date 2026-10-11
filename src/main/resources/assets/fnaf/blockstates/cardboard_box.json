@@ -1,0 +1,15 @@
+{
+ "variants": {
+  "": [
+   {
+    "model": "fnaf:block/box_0"
+   },
+   {
+    "model": "fnaf:block/box_1"
+   },
+   {
+    "model": "fnaf:block/box_2"
+   }
+  ]
+ }
+}

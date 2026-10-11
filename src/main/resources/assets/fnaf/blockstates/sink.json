@@ -1,0 +1,20 @@
+{
+ "variants": {
+  "facing=south": {
+   "model": "fnaf:block/sink",
+   "y": 0
+  },
+  "facing=west": {
+   "model": "fnaf:block/sink",
+   "y": 90
+  },
+  "facing=north": {
+   "model": "fnaf:block/sink",
+   "y": 180
+  },
+  "facing=east": {
+   "model": "fnaf:block/sink",
+   "y": 270
+  }
+ }
+}

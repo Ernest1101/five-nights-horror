@@ -1,0 +1,12 @@
+{
+ "variants": {
+  "": [
+   {
+    "model": "fnaf:block/kitchen_tile_0"
+   },
+   {
+    "model": "fnaf:block/kitchen_tile_1"
+   }
+  ]
+ }
+}

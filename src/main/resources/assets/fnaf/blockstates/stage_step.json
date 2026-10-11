@@ -1,0 +1,13 @@
+{
+ "variants": {
+  "type=bottom": {
+   "model": "fnaf:block/stage_step"
+  },
+  "type=double": {
+   "model": "fnaf:block/stage_planks_0"
+  },
+  "type=top": {
+   "model": "fnaf:block/stage_step_top"
+  }
+ }
+}

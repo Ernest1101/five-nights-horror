@@ -1,0 +1,13 @@
+* text=auto
+gradlew text eol=lf
+*.sh text eol=lf
+*.bat text eol=crlf
+*.png binary
+*.jpg binary
+*.ogg binary
+*.jar binary
+*.nbt binary
+*.fmap binary
+*.fmesh binary
+*.fcol binary
+*.bin binary

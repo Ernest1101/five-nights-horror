@@ -1,0 +1,20 @@
+{
+ "variants": {
+  "facing=south": {
+   "model": "fnaf:block/out_of_order_sign",
+   "y": 0
+  },
+  "facing=west": {
+   "model": "fnaf:block/out_of_order_sign",
+   "y": 90
+  },
+  "facing=north": {
+   "model": "fnaf:block/out_of_order_sign",
+   "y": 180
+  },
+  "facing=east": {
+   "model": "fnaf:block/out_of_order_sign",
+   "y": 270
+  }
+ }
+}

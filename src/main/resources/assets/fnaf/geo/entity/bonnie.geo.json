@@ -1,0 +1,110 @@
+{
+ "format_version": "1.12.0",
+ "minecraft:geometry": [
+  {
+   "description": {
+    "identifier": "geometry.bonnie",
+    "texture_width": 2048,
+    "texture_height": 2048,
+    "visible_bounds_width": 3,
+    "visible_bounds_height": 3.5,
+    "visible_bounds_offset": [
+     0,
+     1.5,
+     0
+    ]
+   },
+   "bones": [
+    {
+     "name": "root",
+     "pivot": [
+      0.0,
+      0.0,
+      0.0
+     ]
+    },
+    {
+     "name": "body",
+     "pivot": [
+      0.0,
+      13.536,
+      0.0
+     ],
+     "parent": "root"
+    },
+    {
+     "name": "head",
+     "pivot": [
+      0.0,
+      26.24,
+      0.0
+     ],
+     "parent": "body"
+    },
+    {
+     "name": "jaw",
+     "pivot": [
+      0.0,
+      28.08,
+      -0.517
+     ],
+     "parent": "head"
+    },
+    {
+     "name": "left_arm",
+     "pivot": [
+      3.994,
+      23.483,
+      0.0
+     ],
+     "parent": "body"
+    },
+    {
+     "name": "left_forearm",
+     "pivot": [
+      5.256,
+      16.329,
+      0.0
+     ],
+     "parent": "left_arm"
+    },
+    {
+     "name": "right_arm",
+     "pivot": [
+      -3.994,
+      23.483,
+      0.0
+     ],
+     "parent": "body"
+    },
+    {
+     "name": "right_forearm",
+     "pivot": [
+      -5.256,
+      16.329,
+      0.0
+     ],
+     "parent": "right_arm"
+    },
+    {
+     "name": "left_leg",
+     "pivot": [
+      2.622,
+      13.536,
+      0.0
+     ],
+     "parent": "root"
+    },
+    {
+     "name": "right_leg",
+     "pivot": [
+      -2.621,
+      13.536,
+      0.0
+     ],
+     "parent": "root"
+    }
+   ]
+  }
+ ]
+}

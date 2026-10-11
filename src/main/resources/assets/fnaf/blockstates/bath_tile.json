@@ -1,0 +1,12 @@
+{
+ "variants": {
+  "": [
+   {
+    "model": "fnaf:block/bath_tile_0"
+   },
+   {
+    "model": "fnaf:block/bath_tile_1"
+   }
+  ]
+ }
+}

@@ -1,0 +1,75 @@
+New World (5)
+start
+wait 100
+fnaf rebuild
+wait 80
+gamemode spectator @me
+hud off
+execute in fnaf:pizzeria run tp @me 32.5 65 54.5 180 8
+wait 80
+shot office
+execute in fnaf:pizzeria run tp @me 32.5 65.2 50.2 180 28
+wait 30
+shot desk
+execute in fnaf:pizzeria run tp @me 32.5 65.6 36 180 6
+wait 60
+shot dining
+execute in fnaf:pizzeria run tp @me 40 65.2 20 135 10
+wait 40
+shot tables
+execute in fnaf:pizzeria run tp @me 32.5 65 15.5 180 -4
+wait 40
+shot stage
+execute in fnaf:pizzeria run tp @me 17 65 24.5 90 4
+wait 40
+shot cove
+execute in fnaf:pizzeria run tp @me 48.5 65 26.5 -90 10
+wait 40
+shot arcade
+execute in fnaf:pizzeria run tp @me 20.6 65 43.5 90 30
+wait 40
+shot closet
+execute in fnaf:pizzeria run tp @me 23.5 65 38.6 0 4
+wait 40
+shot hall
+execute in fnaf:pizzeria run tp @me 57.5 65 24.5 180 6
+wait 40
+shot restroom
+execute in fnaf:pizzeria run tp @me 16.5 65 5.5 90 6
+wait 40
+shot backstage
+execute in fnaf:pizzeria run tp @me 10.5 65 4 180 20
+wait 30
+shot heads
+execute in fnaf:pizzeria run tp @me 59.5 65 36.5 180 12
+wait 30
+shot kitchen
+execute in fnaf:pizzeria run tp @me 60.5 65 13.5 0 10
+wait 30
+shot stalls
+execute in fnaf:pizzeria run tp @me 30 65 51 -60 15
+wait 30
+shot door
+fnaf power off
+execute in fnaf:pizzeria run tp @me 32.5 65.6 36 180 6
+wait 40
+shot dining_dark
+kill @e[type=fnaf:foxy]
+kill @e[type=fnaf:freddy]
+kill @e[type=fnaf:bonnie]
+kill @e[type=fnaf:chica]
+kill @e[type=fnaf:golden_freddy]
+gamemode adventure @me
+execute in fnaf:pizzeria run tp @me 23.5 65 39.2 0 4
+item replace entity @me weapon.mainhand with fnaf:flashlight
+wait 20
+hud on
+use
+wait 30
+shot flashlight
+persp front
+wait 10
+shot flashlight_3rd
+persp first
+fnaf power on
+wait 20

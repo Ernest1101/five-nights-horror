@@ -1,0 +1,15 @@
+{
+ "variants": {
+  "": [
+   {
+    "model": "fnaf:block/checker_floor_0"
+   },
+   {
+    "model": "fnaf:block/checker_floor_1"
+   },
+   {
+    "model": "fnaf:block/checker_floor_2"
+   }
+  ]
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "variants": {
+  "": [
+   {
+    "model": "fnaf:block/party_hat_0",
+    "y": 0
+   },
+   {
+    "model": "fnaf:block/party_hat_0",
+    "y": 90
+   },
+   {
+    "model": "fnaf:block/party_hat_1",
+    "y": 0
+   },
+   {
+    "model": "fnaf:block/party_hat_1",
+    "y": 90
+   },
+   {
+    "model": "fnaf:block/party_hat_2",
+    "y": 0
+   },
+   {
+    "model": "fnaf:block/party_hat_2",
+    "y": 90
+   }
+  ]
+ }
+}

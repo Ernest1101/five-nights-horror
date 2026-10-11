@@ -1,0 +1,22 @@
+FNAF 1 animatronic models (Freddy, Bonnie, Chica, Foxy, Golden Freddy)
+by 999angry on Sketchfab, licensed CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/):
+  Freddy        https://sketchfab.com/3d-models/2c9598d0fbdf49b0b32372a7dc21bb92
+  Bonnie        https://sketchfab.com/3d-models/b072ec9f1de0477ea6b0d7c77a9f930c
+  Chica         https://sketchfab.com/3d-models/48c4a096caaa45c8b6a01f6f4f33c154
+  Foxy          https://sketchfab.com/3d-models/b015ce694e1e493c85d762301469cd01
+  Golden Freddy https://sketchfab.com/3d-models/5277f7ff67e94103b21faa9d8a09613a
+Changes: split into animation bones, arms posed down, decimated, textures re-baked into one atlas.
+Five Nights at Freddy's characters are owned by Scott Cawthon; this is a non-commercial fan mod.
+
+Sounds: CC0 (public domain) recordings from freesound.org, edited (trimmed, mixed, looped):
+  steps 813056 813055 813053 815039 (AudioPapkin), servo 322021 (Burningmonkey), scream 161404 (audione) + 396797 (scorpion67890),
+  static 35291 (Jace), laugh 350679 (DRFX), running 361072 (Topschool), door banging 362633 (iamadam19),
+  pots 209002 (OwlStorm), ambience 371277 (goulven), fan 553745 (denstoltejyde), metal door 406197 (kyles),
+  light buzz 474312 (Rvgerxini), switch 348225 (tbrook), flashlight 187335 (baidonovan), generator 182329 (simplen00b),
+  pull cord 222809 (gthall), power down 169994 (peepholecircus), petrol pour 432350 (ericlichtenberg), glug 568471 (Zott820),
+  splash 207781 (Dvideoguy), can pick-up 624489 (ValentinPetiteau). https://freesound.org/s/<id>/
+Music box: Bizet, "Toreador Song" (public domain), synthesized. No audio is taken from the FNAF games.
+
+FNAF 1 map (the whole pizzeria: rooms, stage, pirate cove, office, tables, arcades, posters):
+  "Fnaf 1 Map" by skylajade69 on Sketchfab, CC BY 4.0: https://sketchfab.com/3d-models/b688467e1da6452d83d394a4c1e20c91
+  Changes: decimated, cut into block cells, textures resized, office doors made movable.

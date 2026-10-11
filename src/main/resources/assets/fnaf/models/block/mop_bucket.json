@@ -1,0 +1,215 @@
+{
+ "parent": "minecraft:block/block",
+ "textures": {
+  "b": "fnaf:block/bucket_yellow",
+  "h": "fnaf:block/wood_handle",
+  "mop": "fnaf:block/mop",
+  "particle": "fnaf:block/bucket_yellow"
+ },
+ "elements": [
+  {
+   "from": [
+    3,
+    0,
+    3
+   ],
+   "to": [
+    13,
+    8,
+    13
+   ],
+   "faces": {
+    "north": {
+     "texture": "#b",
+     "uv": [
+      3,
+      8,
+      13,
+      16
+     ]
+    },
+    "south": {
+     "texture": "#b",
+     "uv": [
+      3,
+      8,
+      13,
+      16
+     ]
+    },
+    "east": {
+     "texture": "#b",
+     "uv": [
+      3,
+      8,
+      13,
+      16
+     ]
+    },
+    "west": {
+     "texture": "#b",
+     "uv": [
+      3,
+      8,
+      13,
+      16
+     ]
+    },
+    "up": {
+     "texture": "#b",
+     "uv": [
+      3,
+      3,
+      13,
+      13
+     ]
+    },
+    "down": {
+     "texture": "#b",
+     "uv": [
+      3,
+      3,
+      13,
+      13
+     ]
+    }
+   }
+  },
+  {
+   "from": [
+    7.5,
+    8,
+    7.5
+   ],
+   "to": [
+    8.5,
+    26,
+    8.5
+   ],
+   "faces": {
+    "north": {
+     "texture": "#h",
+     "uv": [
+      7.5,
+      0,
+      8.5,
+      16
+     ]
+    },
+    "south": {
+     "texture": "#h",
+     "uv": [
+      7.5,
+      0,
+      8.5,
+      16
+     ]
+    },
+    "east": {
+     "texture": "#h",
+     "uv": [
+      7.5,
+      0,
+      8.5,
+      16
+     ]
+    },
+    "west": {
+     "texture": "#h",
+     "uv": [
+      7.5,
+      0,
+      8.5,
+      16
+     ]
+    },
+    "up": {
+     "texture": "#h",
+     "uv": [
+      7.5,
+      7.5,
+      8.5,
+      8.5
+     ]
+    },
+    "down": {
+     "texture": "#h",
+     "uv": [
+      7.5,
+      7.5,
+      8.5,
+      8.5
+     ]
+    }
+   }
+  },
+  {
+   "from": [
+    5,
+    8,
+    5
+   ],
+   "to": [
+    11,
+    11,
+    11
+   ],
+   "faces": {
+    "north": {
+     "texture": "#mop",
+     "uv": [
+      5,
+      5,
+      11,
+      8
+     ]
+    },
+    "south": {
+     "texture": "#mop",
+     "uv": [
+      5,
+      5,
+      11,
+      8
+     ]
+    },
+    "east": {
+     "texture": "#mop",
+     "uv": [
+      5,
+      5,
+      11,
+      8
+     ]
+    },
+    "west": {
+     "texture": "#mop",
+     "uv": [
+      5,
+      5,
+      11,
+      8
+     ]
+    },
+    "up": {
+     "texture": "#mop",
+     "uv": [
+      5,
+      5,
+      11,
+      11
+     ]
+    },
+    "down": {
+     "texture": "#mop",
+     "uv": [
+      5,
+      5,
+      11,
+      11
+     ]
+    }
+   }
+  }
+ ]
+}

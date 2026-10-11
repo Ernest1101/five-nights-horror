@@ -1,0 +1,15 @@
+{
+ "variants": {
+  "": [
+   {
+    "model": "fnaf:block/star_curtain_0"
+   },
+   {
+    "model": "fnaf:block/star_curtain_1"
+   },
+   {
+    "model": "fnaf:block/star_curtain_2"
+   }
+  ]
+ }
+}

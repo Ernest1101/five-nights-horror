@@ -1,0 +1,147 @@
+{
+ "parent": "minecraft:block/block",
+ "textures": {
+  "p": "fnaf:block/button_panel",
+  "b": "fnaf:block/button_red",
+  "particle": "fnaf:block/button_panel"
+ },
+ "elements": [
+  {
+   "from": [
+    3,
+    0,
+    2
+   ],
+   "to": [
+    13,
+    1.5,
+    14
+   ],
+   "faces": {
+    "north": {
+     "texture": "#p",
+     "uv": [
+      3,
+      14.5,
+      13,
+      16
+     ]
+    },
+    "south": {
+     "texture": "#p",
+     "uv": [
+      3,
+      14.5,
+      13,
+      16
+     ]
+    },
+    "east": {
+     "texture": "#p",
+     "uv": [
+      2,
+      14.5,
+      14,
+      16
+     ]
+    },
+    "west": {
+     "texture": "#p",
+     "uv": [
+      2,
+      14.5,
+      14,
+      16
+     ]
+    },
+    "up": {
+     "texture": "#p",
+     "uv": [
+      3,
+      2,
+      13,
+      14
+     ]
+    },
+    "down": {
+     "texture": "#p",
+     "uv": [
+      3,
+      2,
+      13,
+      14
+     ]
+    }
+   }
+  },
+  {
+   "from": [
+    5.5,
+    1.5,
+    5
+   ],
+   "to": [
+    10.5,
+    2.2,
+    11
+   ],
+   "faces": {
+    "north": {
+     "texture": "#b",
+     "uv": [
+      5.5,
+      13.8,
+      10.5,
+      14.5
+     ]
+    },
+    "south": {
+     "texture": "#b",
+     "uv": [
+      5.5,
+      13.8,
+      10.5,
+      14.5
+     ]
+    },
+    "east": {
+     "texture": "#b",
+     "uv": [
+      5,
+      13.8,
+      11,
+      14.5
+     ]
+    },
+    "west": {
+     "texture": "#b",
+     "uv": [
+      5,
+      13.8,
+      11,
+      14.5
+     ]
+    },
+    "up": {
+     "texture": "#b",
+     "uv": [
+      5.5,
+      5,
+      10.5,
+      11
+     ]
+    },
+    "down": {
+     "texture": "#b",
+     "uv": [
+      5.5,
+      5,
+      10.5,
+      11
+     ]
+    }
+   }
+  }
+ ],
+ "ambientocclusion": false
+}

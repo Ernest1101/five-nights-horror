@@ -1,0 +1,284 @@
+{
+ "parent": "minecraft:block/block",
+ "textures": {
+  "w": "fnaf:block/cupcake_wrapper",
+  "f": "fnaf:block/cupcake_frosting",
+  "face": "fnaf:block/cupcake_face",
+  "c": "fnaf:block/candle",
+  "particle": "fnaf:block/cupcake_frosting"
+ },
+ "elements": [
+  {
+   "from": [
+    5,
+    0,
+    5
+   ],
+   "to": [
+    11,
+    4,
+    11
+   ],
+   "faces": {
+    "north": {
+     "texture": "#w",
+     "uv": [
+      5,
+      12,
+      11,
+      16
+     ]
+    },
+    "south": {
+     "texture": "#w",
+     "uv": [
+      5,
+      12,
+      11,
+      16
+     ]
+    },
+    "east": {
+     "texture": "#w",
+     "uv": [
+      5,
+      12,
+      11,
+      16
+     ]
+    },
+    "west": {
+     "texture": "#w",
+     "uv": [
+      5,
+      12,
+      11,
+      16
+     ]
+    },
+    "up": {
+     "texture": "#w",
+     "uv": [
+      5,
+      5,
+      11,
+      11
+     ]
+    },
+    "down": {
+     "texture": "#w",
+     "uv": [
+      5,
+      5,
+      11,
+      11
+     ]
+    }
+   }
+  },
+  {
+   "from": [
+    4.5,
+    4,
+    4.5
+   ],
+   "to": [
+    11.5,
+    7,
+    11.5
+   ],
+   "faces": {
+    "north": {
+     "texture": "#f",
+     "uv": [
+      4.5,
+      9,
+      11.5,
+      12
+     ]
+    },
+    "south": {
+     "texture": "#face",
+     "uv": [
+      4.5,
+      9,
+      11.5,
+      12
+     ]
+    },
+    "east": {
+     "texture": "#f",
+     "uv": [
+      4.5,
+      9,
+      11.5,
+      12
+     ]
+    },
+    "west": {
+     "texture": "#f",
+     "uv": [
+      4.5,
+      9,
+      11.5,
+      12
+     ]
+    },
+    "up": {
+     "texture": "#f",
+     "uv": [
+      4.5,
+      4.5,
+      11.5,
+      11.5
+     ]
+    },
+    "down": {
+     "texture": "#f",
+     "uv": [
+      4.5,
+      4.5,
+      11.5,
+      11.5
+     ]
+    }
+   }
+  },
+  {
+   "from": [
+    5.5,
+    7,
+    5.5
+   ],
+   "to": [
+    10.5,
+    8,
+    10.5
+   ],
+   "faces": {
+    "north": {
+     "texture": "#f",
+     "uv": [
+      5.5,
+      8,
+      10.5,
+      9
+     ]
+    },
+    "south": {
+     "texture": "#f",
+     "uv": [
+      5.5,
+      8,
+      10.5,
+      9
+     ]
+    },
+    "east": {
+     "texture": "#f",
+     "uv": [
+      5.5,
+      8,
+      10.5,
+      9
+     ]
+    },
+    "west": {
+     "texture": "#f",
+     "uv": [
+      5.5,
+      8,
+      10.5,
+      9
+     ]
+    },
+    "up": {
+     "texture": "#f",
+     "uv": [
+      5.5,
+      5.5,
+      10.5,
+      10.5
+     ]
+    },
+    "down": {
+     "texture": "#f",
+     "uv": [
+      5.5,
+      5.5,
+      10.5,
+      10.5
+     ]
+    }
+   }
+  },
+  {
+   "from": [
+    7.5,
+    8,
+    7.5
+   ],
+   "to": [
+    8.5,
+    12,
+    8.5
+   ],
+   "faces": {
+    "north": {
+     "texture": "#c",
+     "uv": [
+      7.5,
+      4,
+      8.5,
+      8
+     ]
+    },
+    "south": {
+     "texture": "#c",
+     "uv": [
+      7.5,
+      4,
+      8.5,
+      8
+     ]
+    },
+    "east": {
+     "texture": "#c",
+     "uv": [
+      7.5,
+      4,
+      8.5,
+      8
+     ]
+    },
+    "west": {
+     "texture": "#c",
+     "uv": [
+      7.5,
+      4,
+      8.5,
+      8
+     ]
+    },
+    "up": {
+     "texture": "#c",
+     "uv": [
+      7.5,
+      7.5,
+      8.5,
+      8.5
+     ]
+    },
+    "down": {
+     "texture": "#c",
+     "uv": [
+      7.5,
+      7.5,
+      8.5,
+      8.5
+     ]
+    }
+   }
+  }
+ ]
+}

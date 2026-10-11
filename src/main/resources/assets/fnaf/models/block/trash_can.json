@@ -1,0 +1,146 @@
+{
+ "parent": "minecraft:block/block",
+ "textures": {
+  "s": "fnaf:block/trash_side",
+  "t": "fnaf:block/trash_top",
+  "particle": "fnaf:block/trash_side"
+ },
+ "elements": [
+  {
+   "from": [
+    3,
+    0,
+    3
+   ],
+   "to": [
+    13,
+    13,
+    13
+   ],
+   "faces": {
+    "north": {
+     "texture": "#s",
+     "uv": [
+      3,
+      3,
+      13,
+      16
+     ]
+    },
+    "south": {
+     "texture": "#s",
+     "uv": [
+      3,
+      3,
+      13,
+      16
+     ]
+    },
+    "east": {
+     "texture": "#s",
+     "uv": [
+      3,
+      3,
+      13,
+      16
+     ]
+    },
+    "west": {
+     "texture": "#s",
+     "uv": [
+      3,
+      3,
+      13,
+      16
+     ]
+    },
+    "up": {
+     "texture": "#t",
+     "uv": [
+      3,
+      3,
+      13,
+      13
+     ]
+    },
+    "down": {
+     "texture": "#s",
+     "uv": [
+      3,
+      3,
+      13,
+      13
+     ]
+    }
+   }
+  },
+  {
+   "from": [
+    2.5,
+    13,
+    2.5
+   ],
+   "to": [
+    13.5,
+    14,
+    13.5
+   ],
+   "faces": {
+    "north": {
+     "texture": "#s",
+     "uv": [
+      2.5,
+      2,
+      13.5,
+      3
+     ]
+    },
+    "south": {
+     "texture": "#s",
+     "uv": [
+      2.5,
+      2,
+      13.5,
+      3
+     ]
+    },
+    "east": {
+     "texture": "#s",
+     "uv": [
+      2.5,
+      2,
+      13.5,
+      3
+     ]
+    },
+    "west": {
+     "texture": "#s",
+     "uv": [
+      2.5,
+      2,
+      13.5,
+      3
+     ]
+    },
+    "up": {
+     "texture": "#t",
+     "uv": [
+      2.5,
+      2.5,
+      13.5,
+      13.5
+     ]
+    },
+    "down": {
+     "texture": "#s",
+     "uv": [
+      2.5,
+      2.5,
+      13.5,
+      13.5
+     ]
+    }
+   }
+  }
+ ]
+}

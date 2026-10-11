@@ -1,0 +1,8 @@
+{
+ "parent": "minecraft:block/slab_top",
+ "textures": {
+  "bottom": "fnaf:block/stage_planks_0",
+  "top": "fnaf:block/stage_planks_0",
+  "side": "fnaf:block/stage_planks_0"
+ }
+}

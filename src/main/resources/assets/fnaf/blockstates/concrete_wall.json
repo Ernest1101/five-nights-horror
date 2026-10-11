@@ -1,0 +1,15 @@
+{
+ "variants": {
+  "": [
+   {
+    "model": "fnaf:block/concrete_wall_0"
+   },
+   {
+    "model": "fnaf:block/concrete_wall_1"
+   },
+   {
+    "model": "fnaf:block/concrete_wall_2"
+   }
+  ]
+ }
+}

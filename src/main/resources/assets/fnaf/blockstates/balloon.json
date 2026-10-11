@@ -1,0 +1,30 @@
+{
+ "variants": {
+  "": [
+   {
+    "model": "fnaf:block/balloon_0",
+    "y": 0
+   },
+   {
+    "model": "fnaf:block/balloon_0",
+    "y": 90
+   },
+   {
+    "model": "fnaf:block/balloon_1",
+    "y": 0
+   },
+   {
+    "model": "fnaf:block/balloon_1",
+    "y": 90
+   },
+   {
+    "model": "fnaf:block/balloon_2",
+    "y": 0
+   },
+   {
+    "model": "fnaf:block/balloon_2",
+    "y": 90
+   }
+  ]
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "variants": {
+  "": [
+   {
+    "model": "fnaf:block/wall_checker_0"
+   },
+   {
+    "model": "fnaf:block/wall_checker_1"
+   }
+  ]
+ }
+}

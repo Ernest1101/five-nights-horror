@@ -1,0 +1,364 @@
+{
+ "parent": "minecraft:block/block",
+ "ambientocclusion": false,
+ "textures": {
+  "hat": "fnaf:block/party_hat_0",
+  "particle": "fnaf:block/party_hat_0"
+ },
+ "elements": [
+  {
+   "from": [
+    5.0,
+    0,
+    5.0
+   ],
+   "to": [
+    11.0,
+    2,
+    11.0
+   ],
+   "faces": {
+    "north": {
+     "uv": [
+      0,
+      0,
+      16,
+      4
+     ],
+     "texture": "#hat"
+    },
+    "south": {
+     "uv": [
+      0,
+      0,
+      16,
+      4
+     ],
+     "texture": "#hat"
+    },
+    "east": {
+     "uv": [
+      0,
+      0,
+      16,
+      4
+     ],
+     "texture": "#hat"
+    },
+    "west": {
+     "uv": [
+      0,
+      0,
+      16,
+      4
+     ],
+     "texture": "#hat"
+    },
+    "up": {
+     "uv": [
+      0,
+      0,
+      16,
+      4
+     ],
+     "texture": "#hat"
+    }
+   }
+  },
+  {
+   "from": [
+    5.6,
+    2,
+    5.6
+   ],
+   "to": [
+    10.4,
+    4,
+    10.4
+   ],
+   "faces": {
+    "north": {
+     "uv": [
+      0,
+      4,
+      16,
+      8
+     ],
+     "texture": "#hat"
+    },
+    "south": {
+     "uv": [
+      0,
+      4,
+      16,
+      8
+     ],
+     "texture": "#hat"
+    },
+    "east": {
+     "uv": [
+      0,
+      4,
+      16,
+      8
+     ],
+     "texture": "#hat"
+    },
+    "west": {
+     "uv": [
+      0,
+      4,
+      16,
+      8
+     ],
+     "texture": "#hat"
+    },
+    "up": {
+     "uv": [
+      0,
+      4,
+      16,
+      8
+     ],
+     "texture": "#hat"
+    }
+   }
+  },
+  {
+   "from": [
+    6.2,
+    4,
+    6.2
+   ],
+   "to": [
+    9.8,
+    6,
+    9.8
+   ],
+   "faces": {
+    "north": {
+     "uv": [
+      0,
+      8,
+      16,
+      12
+     ],
+     "texture": "#hat"
+    },
+    "south": {
+     "uv": [
+      0,
+      8,
+      16,
+      12
+     ],
+     "texture": "#hat"
+    },
+    "east": {
+     "uv": [
+      0,
+      8,
+      16,
+      12
+     ],
+     "texture": "#hat"
+    },
+    "west": {
+     "uv": [
+      0,
+      8,
+      16,
+      12
+     ],
+     "texture": "#hat"
+    },
+    "up": {
+     "uv": [
+      0,
+      8,
+      16,
+      12
+     ],
+     "texture": "#hat"
+    }
+   }
+  },
+  {
+   "from": [
+    6.8,
+    6,
+    6.8
+   ],
+   "to": [
+    9.2,
+    8,
+    9.2
+   ],
+   "faces": {
+    "north": {
+     "uv": [
+      0,
+      12,
+      16,
+      16
+     ],
+     "texture": "#hat"
+    },
+    "south": {
+     "uv": [
+      0,
+      12,
+      16,
+      16
+     ],
+     "texture": "#hat"
+    },
+    "east": {
+     "uv": [
+      0,
+      12,
+      16,
+      16
+     ],
+     "texture": "#hat"
+    },
+    "west": {
+     "uv": [
+      0,
+      12,
+      16,
+      16
+     ],
+     "texture": "#hat"
+    },
+    "up": {
+     "uv": [
+      0,
+      12,
+      16,
+      16
+     ],
+     "texture": "#hat"
+    }
+   }
+  },
+  {
+   "from": [
+    7.3,
+    8,
+    7.3
+   ],
+   "to": [
+    8.7,
+    10,
+    8.7
+   ],
+   "faces": {
+    "north": {
+     "uv": [
+      0,
+      16,
+      16,
+      20
+     ],
+     "texture": "#hat"
+    },
+    "south": {
+     "uv": [
+      0,
+      16,
+      16,
+      20
+     ],
+     "texture": "#hat"
+    },
+    "east": {
+     "uv": [
+      0,
+      16,
+      16,
+      20
+     ],
+     "texture": "#hat"
+    },
+    "west": {
+     "uv": [
+      0,
+      16,
+      16,
+      20
+     ],
+     "texture": "#hat"
+    },
+    "up": {
+     "uv": [
+      0,
+      16,
+      16,
+      20
+     ],
+     "texture": "#hat"
+    }
+   }
+  },
+  {
+   "from": [
+    7,
+    10,
+    7
+   ],
+   "to": [
+    9,
+    12,
+    9
+   ],
+   "faces": {
+    "north": {
+     "uv": [
+      0,
+      12,
+      4,
+      16
+     ],
+     "texture": "#hat"
+    },
+    "south": {
+     "uv": [
+      0,
+      12,
+      4,
+      16
+     ],
+     "texture": "#hat"
+    },
+    "east": {
+     "uv": [
+      0,
+      12,
+      4,
+      16
+     ],
+     "texture": "#hat"
+    },
+    "west": {
+     "uv": [
+      0,
+      12,
+      4,
+      16
+     ],
+     "texture": "#hat"
+    },
+    "up": {
+     "uv": [
+      0,
+      12,
+      4,
+      16
+     ],
+     "texture": "#hat"
+    }
+   }
+  }
+ ]
+}

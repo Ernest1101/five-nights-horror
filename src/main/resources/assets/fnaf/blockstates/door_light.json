@@ -1,0 +1,10 @@
+{
+ "variants": {
+  "lit=false": {
+   "model": "fnaf:block/door_light"
+  },
+  "lit=true": {
+   "model": "fnaf:block/door_light_on"
+  }
+ }
+}

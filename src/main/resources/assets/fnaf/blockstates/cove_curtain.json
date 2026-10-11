@@ -1,0 +1,15 @@
+{
+ "variants": {
+  "": [
+   {
+    "model": "fnaf:block/cove_curtain_0"
+   },
+   {
+    "model": "fnaf:block/cove_curtain_1"
+   },
+   {
+    "model": "fnaf:block/cove_curtain_2"
+   }
+  ]
+ }
+}

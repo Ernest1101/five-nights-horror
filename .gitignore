@@ -1,0 +1,27 @@
+# build / IDE
+.gradle/
+build/
+out/
+run/
+.idea/
+*.iml
+.vscode/
+__pycache__/
+*.pyc
+*.log
+
+# large working files that are not needed to build the mod:
+# .blend sources / bake intermediates / renders, old Blockbench models,
+# the freesound download cache (tools/sounds/fnaf_sounds.py re-downloads it),
+# Google Fonts used for the artwork (see tools/fonts/README.txt), the studio Discord bot
+/blender/
+/blockbench/
+tools/sounds/raw/
+tools/fonts/*.ttf
+tools/discord_bot/
+
+# secrets
+.env
+
+# local tool session ids
+.session

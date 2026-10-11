@@ -1,0 +1,217 @@
+{
+  "animatronic.step": {
+    "sounds": [
+      "fnaf:animatronic/step1",
+      "fnaf:animatronic/step2",
+      "fnaf:animatronic/step3",
+      "fnaf:animatronic/step4"
+    ],
+    "subtitle": "subtitles.fnaf.animatronic.step"
+  },
+  "animatronic.servo": {
+    "sounds": [
+      "fnaf:animatronic/servo1",
+      "fnaf:animatronic/servo2"
+    ],
+    "subtitle": "subtitles.fnaf.animatronic.servo"
+  },
+  "animatronic.jumpscare": {
+    "sounds": [
+      "fnaf:animatronic/jumpscare1"
+    ],
+    "subtitle": "subtitles.fnaf.animatronic.jumpscare"
+  },
+  "animatronic.static": {
+    "sounds": [
+      "fnaf:animatronic/static1"
+    ],
+    "subtitle": "subtitles.fnaf.animatronic.static"
+  },
+  "animatronic.laugh": {
+    "sounds": [
+      "fnaf:animatronic/laugh1"
+    ],
+    "subtitle": "subtitles.fnaf.animatronic.laugh"
+  },
+  "foxy.run": {
+    "sounds": [
+      "fnaf:animatronic/foxy_run1"
+    ],
+    "subtitle": "subtitles.fnaf.foxy.run"
+  },
+  "foxy.bang": {
+    "sounds": [
+      "fnaf:animatronic/foxy_bang1"
+    ],
+    "subtitle": "subtitles.fnaf.foxy.bang"
+  },
+  "kitchen.pots": {
+    "sounds": [
+      "fnaf:pizzeria/pots1",
+      "fnaf:pizzeria/pots2"
+    ],
+    "subtitle": "subtitles.fnaf.kitchen.pots"
+  },
+  "music_box": {
+    "sounds": [
+      {
+        "name": "fnaf:pizzeria/music_box1",
+        "stream": true
+      }
+    ],
+    "subtitle": "subtitles.fnaf.music_box"
+  },
+  "pizzeria.ambience": {
+    "sounds": [
+      {
+        "name": "fnaf:pizzeria/ambience1",
+        "stream": true
+      }
+    ],
+    "subtitle": "subtitles.fnaf.pizzeria.ambience"
+  },
+  "fan.loop": {
+    "sounds": [
+      "fnaf:prop/fan_loop1"
+    ],
+    "subtitle": "subtitles.fnaf.fan.loop"
+  },
+  "door.close": {
+    "sounds": [
+      "fnaf:prop/door_close1"
+    ],
+    "subtitle": "subtitles.fnaf.door.close"
+  },
+  "door.open": {
+    "sounds": [
+      "fnaf:prop/door_open1"
+    ],
+    "subtitle": "subtitles.fnaf.door.open"
+  },
+  "door_light.buzz": {
+    "sounds": [
+      "fnaf:prop/light_buzz1"
+    ],
+    "subtitle": "subtitles.fnaf.door_light.buzz"
+  },
+  "button.click": {
+    "sounds": [
+      "fnaf:prop/button_click1"
+    ],
+    "subtitle": "subtitles.fnaf.button.click"
+  },
+  "flashlight.click": {
+    "sounds": [
+      "fnaf:prop/flashlight_click1"
+    ],
+    "subtitle": "subtitles.fnaf.flashlight.click"
+  },
+  "generator.run": {
+    "sounds": [
+      "fnaf:prop/generator_run1"
+    ],
+    "subtitle": "subtitles.fnaf.generator.run"
+  },
+  "generator.pull": {
+    "sounds": [
+      "fnaf:prop/generator_pull1",
+      "fnaf:prop/generator_pull2"
+    ],
+    "subtitle": "subtitles.fnaf.generator.pull"
+  },
+  "generator.start": {
+    "sounds": [
+      "fnaf:prop/generator_start1"
+    ],
+    "subtitle": "subtitles.fnaf.generator.start"
+  },
+  "generator.stop": {
+    "sounds": [
+      "fnaf:prop/generator_stop1"
+    ],
+    "subtitle": "subtitles.fnaf.generator.stop"
+  },
+  "power.down": {
+    "sounds": [
+      "fnaf:prop/power_down1"
+    ],
+    "subtitle": "subtitles.fnaf.power.down"
+  },
+  "night.chimes": {
+    "sounds": [
+      {
+        "name": "fnaf:pizzeria/chimes1",
+        "stream": true
+      }
+    ],
+    "subtitle": "subtitles.fnaf.night.chimes"
+  },
+  "night.cheer": {
+    "sounds": [
+      "fnaf:pizzeria/cheer1"
+    ],
+    "subtitle": "subtitles.fnaf.night.cheer"
+  },
+  "cam.open": {
+    "sounds": [
+      "fnaf:prop/cam_open1"
+    ]
+  },
+  "cam.close": {
+    "sounds": [
+      "fnaf:prop/cam_close1"
+    ]
+  },
+  "cam.switch": {
+    "sounds": [
+      "fnaf:prop/cam_switch1"
+    ]
+  },
+  "menu.music": {
+    "sounds": [
+      {
+        "name": "fnaf:pizzeria/menu_music1",
+        "stream": true
+      }
+    ]
+  },
+  "fuel.pour": {
+    "sounds": [
+      "fnaf:prop/fuel_pour1",
+      "fnaf:prop/fuel_pour2"
+    ],
+    "subtitle": "subtitles.fnaf.fuel.pour"
+  },
+  "fuel.spill": {
+    "sounds": [
+      "fnaf:prop/fuel_spill1",
+      "fnaf:prop/fuel_spill2"
+    ],
+    "subtitle": "subtitles.fnaf.fuel.spill"
+  },
+  "fuel.pickup": {
+    "sounds": [
+      "fnaf:prop/fuel_pickup1"
+    ],
+    "subtitle": "subtitles.fnaf.fuel.pickup"
+  },
+  "animatronic.hurt": {
+    "subtitle": "subtitles.fnaf.animatronic.hurt",
+    "sounds": [
+      "fnaf:animatronic/hurt1"
+    ]
+  },
+  "animatronic.death": {
+    "subtitle": "subtitles.fnaf.animatronic.death",
+    "sounds": [
+      "fnaf:animatronic/death1"
+    ]
+  },
+  "animatronic.ambient": {
+    "subtitle": "subtitles.fnaf.animatronic.ambient",
+    "sounds": [
+      "fnaf:animatronic/ambient1",
+      "fnaf:animatronic/ambient2"
+    ]
+  }
+}

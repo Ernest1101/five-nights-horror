@@ -1,0 +1,77 @@
+{
+ "parent": "minecraft:block/block",
+ "textures": {
+  "t": "fnaf:block/window_glass",
+  "particle": "fnaf:block/window_glass"
+ },
+ "elements": [
+  {
+   "from": [
+    0,
+    0,
+    7.5
+   ],
+   "to": [
+    16,
+    16,
+    8.5
+   ],
+   "faces": {
+    "north": {
+     "texture": "#t",
+     "uv": [
+      0,
+      0,
+      16,
+      16
+     ]
+    },
+    "south": {
+     "texture": "#t",
+     "uv": [
+      0,
+      0,
+      16,
+      16
+     ]
+    },
+    "east": {
+     "texture": "#t",
+     "uv": [
+      7.5,
+      0,
+      8.5,
+      16
+     ]
+    },
+    "west": {
+     "texture": "#t",
+     "uv": [
+      7.5,
+      0,
+      8.5,
+      16
+     ]
+    },
+    "up": {
+     "texture": "#t",
+     "uv": [
+      0,
+      7.5,
+      16,
+      8.5
+     ]
+    },
+    "down": {
+     "texture": "#t",
+     "uv": [
+      0,
+      7.5,
+      16,
+      8.5
+     ]
+    }
+   }
+  }
+ ]
+}

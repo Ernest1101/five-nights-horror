@@ -1,0 +1,18 @@
+{
+ "variants": {
+  "": [
+   {
+    "model": "fnaf:block/ceiling_tile_0"
+   },
+   {
+    "model": "fnaf:block/ceiling_tile_0"
+   },
+   {
+    "model": "fnaf:block/ceiling_tile_1"
+   },
+   {
+    "model": "fnaf:block/ceiling_tile_2"
+   }
+  ]
+ }
+}

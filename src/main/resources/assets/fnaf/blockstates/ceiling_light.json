@@ -1,0 +1,10 @@
+{
+ "variants": {
+  "lit=false": {
+   "model": "fnaf:block/ceiling_light"
+  },
+  "lit=true": {
+   "model": "fnaf:block/ceiling_light_on"
+  }
+ }
+}

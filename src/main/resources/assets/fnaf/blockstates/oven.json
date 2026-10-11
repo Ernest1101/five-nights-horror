@@ -1,0 +1,20 @@
+{
+ "variants": {
+  "facing=south": {
+   "model": "fnaf:block/oven",
+   "y": 0
+  },
+  "facing=west": {
+   "model": "fnaf:block/oven",
+   "y": 90
+  },
+  "facing=north": {
+   "model": "fnaf:block/oven",
+   "y": 180
+  },
+  "facing=east": {
+   "model": "fnaf:block/oven",
+   "y": 270
+  }
+ }
+}
